@@ -9,7 +9,7 @@
   "dependencies": {
     "@pusher/chatkit-client": "^1.4.1",
     "@react-native-community/audio-toolkit": "^2.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "16.8.3",
     "react-native": "0.59.1",
     "react-native-audio-toolkit": "^1.0.6",
